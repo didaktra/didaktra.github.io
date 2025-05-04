@@ -1,0 +1,60 @@
+site_name: Didaktra - naučite kako učiti
+theme: 
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      media: false
+      toggle:
+        icon: material/weather-night
+        name: Tamni način rada
+      primary: deep purple 
+      accent: deep purple
+    # Dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Svijetli način rada
+      primary: deep purple
+      accent: deep purple
+  language: hr
+  font:
+    text: Roboto
+  icon:
+    logo: material/school-outline
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+    - navigation.footer
+nav:
+  - index.md
+  - kako_radimo.md
+  - cjenik.md
+  - kontakt.md
+  - placanje.md
+not_in_nav: |
+  /hvala.md  
+markdown_extensions: # latex
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js 
+
+extra_css:
+  - styles/form.css
+
+copyright: 2025. DIDAKTRA, obrt za poduke i edukaciju. Sva prava pridržana. &copy
