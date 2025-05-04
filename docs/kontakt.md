@@ -8,8 +8,6 @@ Rado ćemo odgovoriti na sva vaša pitanja ili dogovoriti termin poduke.
 
 Poduke održavamo svakim radnim danom od 9 do 19 sati, osim nedjelje i praznika.
 
-Izvodimo ih **uživo** u Rijeci ili **online**, prema dogovoru — po istoj cijeni. Točnu lokaciju dogovaramo individualno s učenicima.
-
 ## :telephone: Telefon
 
 Dostupni smo na:

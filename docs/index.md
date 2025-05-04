@@ -2,15 +2,30 @@
 title: "Početna stranica"
 ---
 
-# Dobrodošli
+# Dobrodošli u Didaktru!
 
 > :bulb: Ja ne mogu nikoga ništa naučiti, ja ih samo mogu natjerati da misle.
 >
 > ~ Sokrat
 
+<br>
+
+<div class="grid cards" markdown>
+
+-   ## :mortar_board: Tko smo i što nudimo?
+
+    ---
+
+      - Didaktra je tim edukatora iz Rijeke specijaliziran za instrukcije iz **matematike** i **fizike**.
+      - Radimo s učenicima osnovnih i srednjih škola, prilagođavajući pristup svakom pojedincu.
+      - Instrukcije nudimo i na **talijanskom jeziiku**.
+      - Poduke se održavaju **uživo** u Rijeci ili **online**, uz istu [cijenu](./cjenik.md) bez obzira na oblik nastave.
+
+</div>
+
 ## Podrška u učenju koja traje
 
-Nudimo individualni pristup učenju **matematike** i **fizike** uz fokus na razvoj učinkovitih strategija učenja, jačanje razumijevanja i poticanje logičkog razmišljanja – jer pravi uspjeh ne dolazi samo iz znanja, već iz načina na koji ga usvajamo!
+Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija učenja, jačanje razumijevanja i poticanje logičkog razmišljanja – jer pravi uspjeh ne dolazi samo iz znanja, već iz načina na koji ga usvajamo!
 
 <img src="images/tutor.jpg"
      alt="tutoring"
