@@ -29,7 +29,7 @@ Pošaljite nam e-mail na [info@didaktra.com](mailto:info@didaktra.com) ili ispun
   <textarea class="form-control" name="message" placeholder="Vaša poruka" required></textarea>
   <input type="hidden" name="apiKey" value="sf_7dcm0kdb9habnh1emcekhbe3">
   <input type="hidden" name="subject" value="Nova poruka - kontakt forma">
-  <input type="hidden" name="replyTo" value="@"> <!-- Uses the email from the form as reply-to address -->
+  <input type="hidden" name="replyTo" value="@">
   <input type="hidden" name="redirectTo" value="https://didaktra.com/hvala/">
 
   <!-- reCAPTCHA widget -->
