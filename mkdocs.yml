@@ -21,6 +21,7 @@ theme:
     text: Roboto
   icon:
     logo: material/school-outline
+    favicon: images/school-outline.svg
   features:
     - navigation.tabs
     - navigation.tabs.sticky
