@@ -14,24 +14,20 @@ Plaćanje naših usluga moguće je izvršiti:
 
 U nastavku su podaci za uplatu putem internet ili mobilnog bankarstva:
 
-- **Primatelj:**  *Didaktra – obrt za poduke i edukaciju*
+- **Primatelj/Poslovni subjekt:**  *DIDAKTRA, vl. Filip Reščić*
 
-- **IBAN:**  *HRkkkkkkkkkkkkkkkkk*
+- **IBAN:**  HR25 2360 0001 1032 0536 4
 
-- **SWIFT / BIC:**  *ZABAHR2X*
-
-- **Banka:**  *Zagrebačka banka d.d.*
-
-- **Model:** *HR00*
+- **Banka:**  *Zagrebačka banka d.d.* (**SWIFT:**  *ZABAHR2X*)
 
 - **Poziv na broj:**  *datum uplate* (format dd-mm-yyyy, npr. 01-05-2025)
 
 - **Opis plaćanja:**  *Poduke – ime učenika, usluga* (npr. Poduke - Ivo Ivić, rad u grupi S)
 
-Ili jednostavno skenirajte QR kod
+QR kod:
 
-slika qr koda
+![qrkod](images/qr_kod.jpg)
 
 ---
 
-U slučaju da je uplata hitna ili neposredno pred termin molimo vas da nam potvrdu o uplati pošaljete na e-mail: [info@didaktra.com](mailto:info@didaktra.com).
+U slučaju da je uplata izvršena neposredno pred termin molimo vas da nam potvrdu o uplati pošaljete na e-mail: [info@didaktra.com](mailto:info@didaktra.com).
