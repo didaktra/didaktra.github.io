@@ -1,4 +1,4 @@
-site_name: Didaktra - naučite kako učiti
+site_name: Didaktra - znanje koje ostaje
 theme: 
   name: material
   palette:
@@ -27,17 +27,23 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+    - navigation.indexes
     - toc.integrate
     - content.code.copy
     - navigation.footer
+plugins:
+    - blog    
 nav:
   - index.md
   - kako_radimo.md
   - cjenik.md
   - kontakt.md
-  - placanje.md
+  - linkovi.md
+  - Blog:
+    - blog/index.md
 not_in_nav: |
-  /hvala.md  
+  /hvala.md
+  /placanje.md  
 markdown_extensions: # latex
   - admonition
   - pymdownx.details

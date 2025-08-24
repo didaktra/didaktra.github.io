@@ -17,23 +17,11 @@ title: "Početna stranica"
     ---
 
       - Didaktra je tim edukatora iz Rijeke specijaliziran za instrukcije iz **matematike** i **fizike**.
-      - Radimo s učenicima osnovnih i srednjih škola, prilagođavajući pristup svakom pojedincu.
+      - Radimo s učenicima osnovnih i srednjih škola.
       - Instrukcije nudimo i na **talijanskom jeziku**.
       - Poduke se održavaju **uživo** u Rijeci ili **online**, uz istu [cijenu](./cjenik.md) bez obzira na oblik nastave.
 
 </div>
-
-## Podrška u učenju koja traje
-
-Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija učenja, jačanje razumijevanja i poticanje logičkog razmišljanja – jer pravi uspjeh ne dolazi samo iz znanja, već iz načina na koji ga usvajamo!
-
-<img src="images/tutor.jpg"
-     alt="tutoring"
-     style="width: 70%; display: block; margin: 1rem auto;" />
-
-<p style="text-align: center; font-size: 0.5rem; color: #555;">
-  Izvor: <a href="https://unsplash.com/photos/woman-in-black-sleeveless-top-h6gCRTCxM7o" target="_blank">Unsplash</a>
-</p>
 
 ## Zašto "Didaktra"?
 

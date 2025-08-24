@@ -2,6 +2,10 @@
 title: "Cjenik usluga"
 ---
 
+!!! info
+
+    Detalje o načinima plaćanja možete pronaći [ovdje](./placanje.md).
+
 ## Kategorije prema razredima
 
 | Kategorija | Razred |

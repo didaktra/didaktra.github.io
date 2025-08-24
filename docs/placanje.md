@@ -9,8 +9,8 @@ hide:
 
 Plaćanje naših usluga moguće je izvršiti:
 
-- **Gotovinom**
-- **Bankovnim prijenosom**
+- **Gotovinom** po završetku termina,
+- **Bankovnim prijenosom** prije održavanja termina.
 
 U nastavku su podaci za uplatu putem internet ili mobilnog bankarstva:
 
@@ -22,11 +22,11 @@ U nastavku su podaci za uplatu putem internet ili mobilnog bankarstva:
 
 - **Poziv na broj:**  *datum uplate* (format dd-mm-yyyy, npr. 01-05-2025)
 
-- **Opis plaćanja:**  *Poduke – ime učenika, usluga* (npr. Poduke - Ivo Ivić, rad u grupi S)
+- **Opis plaćanja:**  *Poduke – ime učenika* (npr. Poduke - Ivo Ivić)
 
-QR kod:
+Barkod:
 
-![qrkod](images/qr_kod.jpg)
+![qrkod](images/barkod.jpg)
 
 ---
 

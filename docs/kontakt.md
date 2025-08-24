@@ -6,14 +6,14 @@ Rado ćemo odgovoriti na sva vaša pitanja ili dogovoriti termin poduke.
 
 ## :calendar: Termin poduka
 
-Poduke održavamo svakim radnim danom od 9 do 19 sati, osim nedjelje i praznika.
+Poduke održavamo svakim danom od ponedjeljka do subote, od 9 do 19 sati.
 
 ## :telephone: Telefon
 
 Dostupni smo na:
 
 - Mob.: +385 97 668 5469
-- Telegram & Viber
+- Telegram, Whatsapp & Viber
 
 !!! warning "Pažnja"
      Odgovaramo na pozive i poruke svakim radnim danom od 9 do 15 sati, subotom do 13 sati.
