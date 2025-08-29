@@ -16,7 +16,7 @@ title: "Početna stranica"
 
     ---
 
-      - Didaktra je tim edukatora iz Rijeke specijaliziran za instrukcije iz **matematike** i **fizike**.
+      - Didaktra je tim edukatora iz Rijeke za instrukcije iz **matematike** i **fizike**.
       - Radimo s učenicima osnovnih i srednjih škola.
       - Instrukcije nudimo i na **talijanskom jeziku**.
       - Poduke se održavaju **uživo** u Rijeci ili **online**, uz istu [cijenu](./cjenik.md) bez obzira na oblik nastave.
