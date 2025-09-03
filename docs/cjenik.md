@@ -25,10 +25,10 @@ Cijene su organizirane prema donjoj tablici.
 
     Jedan sat poduke traje 60 minuta.
 
-    | Kategorija | Cijena | Kategorija | Cijena |
-    | :--------: | :----: | :--------: | :----: |
-    | S | 15 € | ST | 20 € |
-    | M | 18 € | MT | 25 € |
+    |  Kategorija  |    Cijena   |
+    | :----------: | :---------: |
+    |    S / ST    | 15 € / 20 € |
+    |    M / MT    | 18 € / 25 € |
 
 -   ## :couple: Rad u paru
 
@@ -49,8 +49,8 @@ Cijene su organizirane prema donjoj tablici.
 
     | Kategorija | Cijena |
     | :--------: | :----: |
-    | S(T) | 3 € |
-    | M(T) | 5 € |
+    |   S / ST   |   3 €  |
+    |   M / MT   |   5 €  |
 
 -   ## :gift: Paketi poduka
 
@@ -58,9 +58,9 @@ Cijene su organizirane prema donjoj tablici.
 
     Paketi se odnose na individualnu nastavu i uključuju 8 sati. Potrebno ga je iskoristiti unutar 90 dana.
 
-    | Kategorija | Cijena | Kategorija | Cijena |
-    | :--------: | :----: | :--------: | :----: |
-    | S | 100 € | ST | 140 € |
-    | M | 120 € | MT | 170 € |
+    |  Kategorija  |    Cijena   |
+    | :----------: | :---------: |
+    |    S / ST    | 100 € / 140 € |
+    |    M / MT    | 120 € / 170 € |
 
 </div>
