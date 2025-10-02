@@ -2,7 +2,7 @@
 title: "Kontakt"
 ---
 
-Rado ćemo odgovoriti na sva vaša pitanja ili dogovoriti termin poduke.
+Rado ćemo odgovoriti na sva vaša pitanja ili dogovoriti termin poduke.....
 
 ## :calendar: Termin poduka
 
