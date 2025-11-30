@@ -37,7 +37,7 @@ Cijene su organizirane prema donjoj tablici.
     Rad u paru odnosi se na poduku za dvije osobe.
 
     | Kategorija | Cijena |
-    | :--------: | :----: |
+    | :-------: | :----: |
     | S | 12 € |
     | M | 15 € |
 
