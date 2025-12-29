@@ -28,7 +28,7 @@ Cijene su organizirane prema donjoj tablici.
     |  Kategorija  |    Cijena   |
     | :----------: | :---------: |
     |    S / ST    | 15 € / 20 € |
-    |    M / MT    | 18 € / 25 € |
+    |    M / MT    | 20 € / 25 € |
 
 -   ## :couple: Rad u paru
 
@@ -61,6 +61,6 @@ Cijene su organizirane prema donjoj tablici.
     |  Kategorija  |    Cijena   |
     | :----------: | :---------: |
     |    S / ST    | 100 € / 140 € |
-    |    M / MT    | 120 € / 170 € |
+    |    M / MT    | 135 € / 170 € |
 
 </div>
