@@ -31,16 +31,16 @@ theme:
     - toc.integrate
     - content.code.copy
     - navigation.footer
-plugins:
-    - blog    
+# plugins:
+#     - blog    
 nav:
   - index.md
   - kako_radimo.md
   - cjenik.md
   - kontakt.md
-  - linkovi.md
-  - Blog:
-    - blog/index.md
+  # - linkovi.md
+  # - Blog:
+  #   - blog/index.md
 not_in_nav: |
   /hvala.md
   /placanje.md  
@@ -64,4 +64,4 @@ extra_javascript:
 extra_css:
   - styles/form.css
 
-copyright: 2025. DIDAKTRA, obrt za poduke i edukaciju. Sva prava pridržana. &copy
+copyright: DIDAKTRA, obrt za poduke i edukaciju. Sva prava pridržana. &copy 2026.

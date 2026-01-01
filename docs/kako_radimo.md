@@ -12,15 +12,19 @@ Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija u
   Izvor: <a href="https://unsplash.com/photos/person-writing-on-brown-wooden-table-near-white-ceramic-mug-s9CC2SKySJM" target="_blank">Unsplash</a>
 </p> -->
 
-### :books: Trag učenja
+## :books: Trag učenja
 
-Nakon svake poduke šaljemo kratak sažetak:
+Nakon svake poduke šaljemo kratak sažetak u obliku PDF prezentacije:
 
 - ključnih ideja
 - preporuka za daljnje učenje ili
 - primjera zadataka za ponavljanje.
 
-### :microscope: Fizika kroz iskustvo
+Za primjerak prezentacije kliknite dolje:
+
+[Preuzmite prezentaciju (PDF)](./files/prezentacija_primjer.pdf){ .md-button }
+
+## :microscope: Fizika kroz iskustvo
 
 Za bolje razumijevanje dijela gradiva iz fizike koristimo **jednostavne eksperimente i demonstracije** koji pomažu učenicima da dožive gradivo.
 
