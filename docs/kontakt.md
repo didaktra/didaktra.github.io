@@ -12,7 +12,7 @@ Poduke održavamo svakim danom od ponedjeljka do subote, od 9 do 19 sati.
 
 Dostupni smo na:
 
-- Mob.: +385 97 668 5469
+- Mob.: +385 97 604 6485
 - Telegram, Whatsapp & Viber
 
 !!! warning "Pažnja"
