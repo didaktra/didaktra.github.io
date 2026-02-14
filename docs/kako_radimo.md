@@ -14,13 +14,13 @@ Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija u
 
 ## :books: Trag učenja
 
-Nakon svake poduke šaljemo kratak sažetak u obliku PDF prezentacije:
+Nakon svake poduke šaljemo PDF prezentaciju s kratkim sažetkom:
 
 - ključnih ideja
-- preporuka za daljnje učenje ili
+- preporuka za daljnje učenje i
 - primjera zadataka za ponavljanje.
 
-Za primjerak prezentacije kliknite dolje:
+Primjerak prezentacije preuzmite ovdje:
 
 [Preuzmite prezentaciju (PDF)](./files/prezentacija_primjer.pdf){ .md-button }
 

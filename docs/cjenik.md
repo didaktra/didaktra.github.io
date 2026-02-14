@@ -2,7 +2,7 @@
 title: "Cjenik usluga"
 ---
 
-Cijene su organizirane prema donjoj tablici.
+Cijene su organizirane prema tablici:
 
 | Kategorija | Razred |
 | :--------: | :----: |
