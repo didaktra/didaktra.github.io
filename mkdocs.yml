@@ -1,20 +1,21 @@
 site_name: Didaktra - znanje koje ostaje
 theme: 
-  name: material
+  name: materialx
+  topbar_style: primary
   palette:
     # Light mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Tamni način rada
-      primary: deep purple 
+      primary: purple 
       accent: deep purple
     # Dark mode
     - scheme: slate 
       toggle:
         icon: material/weather-sunny
         name: Svijetli način rada
-      primary: deep purple
+      primary: purple
       accent: deep purple
   language: hr
   font:
