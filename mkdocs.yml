@@ -1,7 +1,6 @@
 site_name: Didaktra - znanje koje ostaje
 theme: 
-  name: materialx
-  topbar_style: primary
+  name: material
   palette:
     # Light mode
     - scheme: default
