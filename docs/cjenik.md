@@ -56,7 +56,7 @@ Cijene su organizirane prema tablici:
 
     ---
 
-    Paketi se odnose na individualnu nastavu i uključuju 8 sati. Potrebno ga je iskoristiti unutar 90 dana.
+    Paketi se odnose na individualnu nastavu i uključuju 8 sati. Paket je potrebno iskoristiti unutar 90 dana.
 
     |  Kategorija  |    Cijena   |
     | :----------: | :---------: |
