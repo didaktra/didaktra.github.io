@@ -27,8 +27,8 @@ Cijene su organizirane prema tablici:
 
     |  Kategorija  |    Cijena   |
     | :----------: | :---------: |
-    |    S / ST    | 15 € / 20 € |
-    |    M / MT    | 20 € / 25 € |
+    |    S / ST    | 20 € / 25 € |
+    |    M / MT    | 25 € / 30 € |
 
 -   ## :couple: Rad u paru
 
@@ -38,8 +38,8 @@ Cijene su organizirane prema tablici:
 
     | Kategorija | Cijena |
     | :-------: | :----: |
-    | S | 12 € |
-    | M | 15 € |
+    | S | 15 € |
+    | M | 18 € |
 
 -   ## :pencil: Rješavanje zadataka
 
@@ -60,7 +60,7 @@ Cijene su organizirane prema tablici:
 
     |  Kategorija  |    Cijena   |
     | :----------: | :---------: |
-    |    S / ST    | 100 € / 140 € |
-    |    M / MT    | 135 € / 170 € |
+    |    S / ST    | 135 € / 170 € |
+    |    M / MT    | 170 € / 205 € |
 
 </div>
