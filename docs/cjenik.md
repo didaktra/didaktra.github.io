@@ -11,9 +11,15 @@ Cijene su organizirane prema tablici:
 | ST | Poduke na talijanskom jeziku od 5. do 8. razreda OŠ - **isključivo online** |
 | MT | Poduke na talijanskom jeziku od 1. do 4. razreda SŠ - **isključivo online** |
 
-!!! info
+!!! info "Informacije o plaćanju"
 
     Detalje o načinu plaćanja možete pronaći [ovdje](./placanje.md).
+
+!!! info "Cjenik i preuzimanje"
+
+    Aktualni cjenik i arhivu cjenika možete pregledati na [ovoj poveznici](https://app.fira.finance/api/v1/public/price-list/LfxhowbfYqERIdHCjU7BxkuacNERTVKk).
+
+    Cjenik je moguće preuzeti i u `.csv` formatu: [Preuzmi cjenik (.csv)](https://app.fira.finance/api/v1/public/price-list/LfxhowbfYqERIdHCjU7BxkuacNERTVKk/cjenik.csv).
 
 ---
 
