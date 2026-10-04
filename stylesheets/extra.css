@@ -314,43 +314,62 @@ textarea.form-control {
 
 
 
-.md-typeset__table:has(#cjenik-tablica) { display: block; width: 100%; }
-  #cjenik-tablica { display: table; width: 100%; table-layout: fixed; }
-  #cjenik-tablica th:first-child { width: 31%; }
-  #cjenik-tablica th,
-  #cjenik-tablica td { padding: 0.8em 0.6em; text-align: center; vertical-align: middle; }
-  #cjenik-tablica th:first-child,
-  #cjenik-tablica td:first-child { text-align: left; }
-  #cjenik-tablica .dk-best { background: #fff7e0; }
-  #cjenik-tablica small { display: block; opacity: 0.75; }
-  #cjenik-tablica .dk-tag {
-    display: inline-block;
-    margin-top: 0.3em;
-    padding: 0.1em 0.6em;
-    border-radius: 999px;
-    background: var(--dk-sun);
-    color: var(--dk-ink);
-    font-size: 0.65rem;
-    font-weight: 800;
-    line-height: 1.4;
-    overflow-wrap: normal;
-  }
-  @media screen and (max-width: 30em) {
-    #cjenik-tablica { font-size: 0.7rem; }
-    #cjenik-tablica th,
-    #cjenik-tablica td { padding: 0.6em 0.3em; }
-    #cjenik-tablica .dk-tag { font-size: 0.55rem; padding: 0.15em 0.45em; }
-  }
+/* ---------- Cjenik: tablica ---------- */
 
-/* Slogan uz naziv u zaglavlju; na mobitelu se skriva */
-.md-header__title .md-header__topic:first-child .md-ellipsis::after {
-  content: " · znanje koje ostaje";
-  font-weight: 400;
-  opacity: 0.85;
+.md-typeset__scrollwrap:has(#cjenik-tablica) { overflow: visible; }
+.md-typeset__table:has(#cjenik-tablica) { display: block; width: 100%; }
+
+#cjenik-tablica {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  overflow: visible;
+  margin-top: 1.4em;
 }
 
-@media screen and (max-width: 44.9375em) {
-  .md-header__title .md-header__topic:first-child .md-ellipsis::after {
-    content: none;
+#cjenik-tablica th:first-child { width: 31%; }
+
+#cjenik-tablica th,
+#cjenik-tablica td { padding: 0.8em 0.6em; text-align: center; vertical-align: middle; }
+
+#cjenik-tablica th:first-child,
+#cjenik-tablica td:first-child { text-align: left; }
+
+#cjenik-tablica small { display: block; opacity: 0.75; }
+
+/* Zaobljeni kutovi (tablica više ne reže sadržaj, pa ih zaobljujemo na ćelijama) */
+#cjenik-tablica thead th:first-child { border-top-left-radius: 14px; }
+#cjenik-tablica thead th:last-child { border-top-right-radius: 14px; position: relative; }
+#cjenik-tablica tbody tr:last-child td:first-child { border-bottom-left-radius: 14px; }
+#cjenik-tablica tbody tr:last-child td:last-child { border-bottom-right-radius: 14px; }
+
+/* Značka sjedi na gornjem rubu tablice, iznad zadnjeg stupca */
+#cjenik-tablica thead th:last-child br { display: none; }
+
+#cjenik-tablica .dk-tag {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.1em 0.6em;
+  border-radius: 999px;
+  background: var(--dk-sun);
+  color: var(--dk-ink);
+  font-size: 0.65rem;
+  font-weight: 800;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 30em) {
+  #cjenik-tablica { font-size: 0.7rem; }
+  #cjenik-tablica th,
+  #cjenik-tablica td { padding: 0.6em 0.3em; }
+  #cjenik-tablica .dk-tag {
+    font-size: 0.55rem;
+    padding: 0.15em 0.45em;
+    left: auto;
+    right: 0.3em;
+    transform: translateY(-50%);
   }
-}  
+}
