@@ -1,37 +1,32 @@
 ---
-title: "Kako radimo?"
+title: Kako radimo
+description: Individualni pristup, PDF sažetak nakon svakog sata i fizika kroz jednostavne pokuse.
+hide:
+  - navigation
 ---
 
-Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija učenja, jačanje **razumijevanja** i poticanje **logičkog zaključivanja**. Naš cilj nije samo ocjena, već trajna vještina učenja.
+# Kako radimo?
 
-<!-- <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-     alt="study"
-     style="width: 70%; display: block; margin: 1rem auto;" />
+Nudimo individualni pristup učenju uz fokus na razvoj učinkovitih strategija učenja, jačanje **razumijevanja** i poticanje **logičkog zaključivanja**. Cilj nije samo ocjena, već trajna vještina učenja.
 
-<p style="text-align: center; font-size: 0.5rem; color: #555;">
-  Izvor: <a href="https://unsplash.com/photos/person-writing-on-brown-wooden-table-near-white-ceramic-mug-s9CC2SKySJM" target="_blank">Unsplash</a>
-</p> -->
-
-## :books: Trag učenja
+## :material-file-document-outline: Trag učenja
 
 Nakon svake poduke šaljemo PDF prezentaciju s kratkim sažetkom:
 
-- ključnih ideja
-- preporuka za daljnje učenje i
+- ključnih ideja,
+- preporuka za daljnje učenje,
 - primjera zadataka za ponavljanje.
 
-Primjerak prezentacije preuzmite ovdje:
+Tako učenik ima sve na jednom mjestu kad se priprema za test, a roditelj vidi što se radilo.
 
-[Preuzmite prezentaciju (PDF)](./files/prezentacija_primjer.pdf){ .md-button }
+[Preuzmite primjer prezentacije (PDF)](files/prezentacija_primjer.pdf){ .md-button .md-button--primary }
 
-## :microscope: Fizika kroz iskustvo
+## :material-flask-outline: Fizika kroz iskustvo
 
-Za bolje razumijevanje dijela gradiva iz fizike koristimo **jednostavne eksperimente i demonstracije** koji pomažu učenicima da dožive gradivo.
+Za bolje razumijevanje dijela gradiva iz fizike koristimo **jednostavne pokuse i demonstracije** koji pomažu učenicima da dožive gradivo, a ne samo da ga zapamte.
 
-<img src="https://images.unsplash.com/photo-1597173791855-eb1382acd788?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-     alt="study"
-     style="width: 70%; display: block; margin: 1rem auto;" />
+<!-- PRIJEDLOG: ovdje fotografija vlastitog pokusa s poduke umjesto stock fotografije -->
 
-<p style="text-align: center; font-size: 0.5rem; color: #555;">
-  Izvor: <a href="https://unsplash.com/photos/white-and-black-electric-guitar-GIb8j6FvYIA" target="_blank">Unsplash</a>
-</p>
+## :material-translate: Poduke na talijanskom jeziku
+
+Za učenike talijanskih osnovnih i srednjih škola nudimo poduke na talijanskom jeziku, isključivo online.

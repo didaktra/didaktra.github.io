@@ -1,72 +1,88 @@
 ---
-title: "Cjenik usluga"
+title: Cjenik
+description: Cijene instrukcija iz matematike i fizike za osnovnu i srednju školu. Pojedinačni sati, paketi od 8 i 12 sati, rad u paru i poduke na talijanskom jeziku.
+hide:
+  - navigation
+  - toc
 ---
 
-Cijene su organizirane prema tablici:
+# Cjenik
 
-| Kategorija | Razred |
-| :--------: | :----: |
-| S | Od 5. do 8. razreda OŠ |
-| M | Od 1. do 4. razreda SŠ |
-| ST | Poduke na talijanskom jeziku od 5. do 8. razreda OŠ - **isključivo online** |
-| MT | Poduke na talijanskom jeziku od 1. do 4. razreda SŠ - **isključivo online** |
+Jedan sat poduke traje **60 minuta**. Cijena je ista za poduke uživo i online.
+Paketi se odnose na individualnu nastavu i plaćaju se unaprijed.
 
-!!! info "Informacije o plaćanju"
+<table id="cjenik-tablica">
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 sat</th>
+      <th>Paket 8 sati</th>
+      <th class="dk-best">Paket 12 sati<br><span class="dk-tag">Najbolja vrijednost</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Osnovna škola</strong><small>5. do 8. razred</small></td>
+      <td>20 €</td>
+      <td>135 €<small>ušteda 25 €</small></td>
+      <td class="dk-best"><strong>190 €</strong><small>ušteda 50 €</small></td>
+    </tr>
+    <tr>
+      <td><strong>Srednja škola</strong><small>1. do 4. razred</small></td>
+      <td>25 €</td>
+      <td>170 €<small>ušteda 30 €</small></td>
+      <td class="dk-best"><strong>240 €</strong><small>ušteda 60 €</small></td>
+    </tr>
+    <tr>
+      <td><strong>Vrijedi</strong></td>
+      <td>1 termin</td>
+      <td>90 dana</td>
+      <td class="dk-best">120 dana</td>
+    </tr>
+  </tbody>
+</table>
 
-    Detalje o načinu plaćanja možete pronaći [ovdje](./placanje.md).
+Paket 12 idealan je za redoviti tjedni termin kroz cijelo polugodište.
 
-<!-- !!! info "Cjenik i preuzimanje"
-
-    Aktualni cjenik i arhivu cjenika možete pregledati na [ovoj poveznici](https://app.fira.finance/api/v1/public/price-list/LfxhowbfYqERIdHCjU7BxkuacNERTVKk).
-
-    Cjenik je moguće preuzeti i u `.csv` formatu: [Preuzmi cjenik (.csv)](https://app.fira.finance/api/v1/public/price-list/LfxhowbfYqERIdHCjU7BxkuacNERTVKk/cjenik.csv).-->
-
----
+## Ostale usluge
 
 <div class="grid cards" markdown>
 
--   ## :clock10: Sat poduka
+-   :material-account-multiple:{ .lg .middle } **Rad u paru**
 
     ---
 
-    Jedan sat poduke traje 60 minuta.
+    Poduka za dva učenika istog razreda.
 
-    | Kategorija | Cijena |
-    | :--------: | :----: |
-    | S / ST | 20 € / 25 € |
-    | M / MT | 25 € / 30 € | 
+    | | Po učeniku |
+    | :-- | :--: |
+    | Osnovna škola | 15 € |
+    | Srednja škola | 18 € |
 
--   ## :couple: Rad u paru
-
-    ---
-
-    Rad u paru odnosi se na poduku za dvije osobe.
-
-    | Kategorija | Cijena |
-    | :--------: | :----: |
-    | S | 15 € |
-    | M | 18 € |
-
--   ## :pencil: Rješavanje zadataka
+-   :material-pencil:{ .lg .middle } **Rješavanje zadataka**
 
     ---
 
-    Zadaci koji sadrže više podzadataka (npr. a), b), c) itd.) obračunavaju se po svakom podzadatku zasebno.
+    Zadaci s više podzadataka (a), b), c)...) obračunavaju se po podzadatku.
 
-    | Kategorija | Cijena |
-    | :--------: | :----: |
-    | S / ST | 3 € |
-    | M / MT | 5 € |
+    | | Po podzadatku |
+    | :-- | :--: |
+    | Osnovna škola | 3 € |
+    | Srednja škola | 5 € |
 
--   ## :gift: Paketi poduka
+-   :material-translate:{ .lg .middle } **Poduke na talijanskom**
 
     ---
 
-    Paketi se odnose na individualnu nastavu i uključuju 8 sati. Paket je potrebno iskoristiti unutar 90 dana.
+    Za učenike talijanskih škola, isključivo online.
 
-    | Kategorija | Cijena |
-    | :--------: | :----: |
-    | S / ST | 135 € / 170 € |
-    | M / MT | 170 € / 205 € |
+    | | Sat | Paket 8 |
+    | :-- | :--: | :--: |
+    | Osnovna škola | 25 € | 170 € |
+    | Srednja škola | 30 € | 205 € |
 
 </div>
+
+!!! info "Plaćanje"
+
+    Gotovinom nakon termina ili bankovnim prijenosom prije termina. [Podaci za uplatu](placanje.md)

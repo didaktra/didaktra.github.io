@@ -1,67 +1,72 @@
-site_name: Didaktra - znanje koje ostaje
-theme: 
+site_name: Didaktra
+site_url: https://didaktra.com/
+site_description: >-
+  Instrukcije iz matematike i fizike za osnovnu i srednju školu,
+  uživo u Rijeci ili online, na hrvatskom i talijanskom jeziku.
+copyright: DIDAKTRA, obrt za poduke i edukaciju &copy; 2026.
+
+theme:
   name: material
-  palette:
-    # Light mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Tamni način rada
-      primary: purple 
-      accent: deep purple
-    # Dark mode
-    - scheme: slate 
-      toggle:
-        icon: material/weather-sunny
-        name: Svijetli način rada
-      primary: purple
-      accent: deep purple
   language: hr
+  # Jedna, svijetla paleta: bez prekidača za tamni način i bez skripte koja ga gasi
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
   font:
-    text: Roboto
+    text: Nunito
   icon:
     logo: material/school-outline
-    favicon: images/school-outline.svg
+  favicon: images/school-outline.svg
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
-    - navigation.sections
-    - navigation.indexes
-    - toc.integrate
-    - content.code.copy
     - navigation.footer
-# plugins:
-#     - blog    
+    - content.tooltips
+
+# Bez pretrage: za pet stranica nije potrebna (vratiti zajedno s blogom)
+plugins: []
+#  - search
+#  - blog
+
 nav:
-  - index.md
-  - kako_radimo.md
-  - cjenik.md
-  - kontakt.md
-  # - linkovi.md
+  - Početna: index.md
+  - Kako radimo: kako_radimo.md
+  - Cjenik: cjenik.md
+  - Kontakt: kontakt.md
   # - Blog:
   #   - blog/index.md
+
 not_in_nav: |
   /hvala.md
-  /placanje.md  
-markdown_extensions: # latex
+  /placanje.md
+  /linkovi.md
+
+markdown_extensions:
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.arithmatex:
-      generic: true
   - attr_list
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-extra_javascript:
-  - javascripts/mathjax.js
-  - javascripts/force-light-mode.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js 
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/385976046485
+      name: WhatsApp
+    - icon: fontawesome/brands/viber
+      link: viber://chat?number=+385976046485
+      name: Viber
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/didaktra
+      name: Telegram        
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@didaktra.com
+      name: info@didaktra.com
 
 extra_css:
-  - styles/form.css
-
-copyright: DIDAKTRA, obrt za poduke i edukaciju. Sva prava pridržana. &copy 2026.
+  - stylesheets/extra.css
