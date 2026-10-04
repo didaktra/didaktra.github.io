@@ -17,7 +17,7 @@ Paketi se odnose na individualnu nastavu i plaćaju se unaprijed.
       <th></th>
       <th>1 sat</th>
       <th>Paket 6 sati</th>
-      <th>Paket 10 sati<br><span class="dk-tag">Najbolja vrijednost</span></th>
+      <th>Paket 10 sati<span class="dk-tag">Najbolja vrijednost</span></th>
     </tr>
   </thead>
   <tbody>

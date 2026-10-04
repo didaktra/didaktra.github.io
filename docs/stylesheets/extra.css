@@ -311,9 +311,6 @@ textarea.form-control {
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr));
 }
 
-
-
-
 /* ---------- Cjenik: tablica ---------- */
 
 .md-typeset__scrollwrap:has(#cjenik-tablica) { overflow: visible; }
@@ -371,5 +368,19 @@ textarea.form-control {
     left: auto;
     right: 0.3em;
     transform: translateY(-50%);
+  }
+}
+
+/* Slogan uz naziv u zaglavlju */
+.md-header__title .md-header__topic:first-child .md-ellipsis::after {
+  content: " · znanje koje ostaje";
+  font-weight: 400;
+  opacity: 0.85;
+}
+
+/* Na mobitelu manji slogan, da stane uz naziv */
+@media screen and (max-width: 44.9375em) {
+  .md-header__title .md-header__topic:first-child .md-ellipsis::after {
+    font-size: 0.8em;
   }
 }
