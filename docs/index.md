@@ -8,7 +8,7 @@ hide:
 
 <div class="dk-hero" markdown>
 
-# Matematika i fizika, korak po korak
+# Matematika i fizika
 
 <p class="dk-lead">Instrukcije za učenike od 5. razreda osnovne do 4. razreda srednje škole. Uživo u Rijeci ili online, na hrvatskom i talijanskom jeziku.</p>
 
