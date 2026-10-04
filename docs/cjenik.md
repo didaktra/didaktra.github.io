@@ -44,6 +44,10 @@ Paketi se odnose na individualnu nastavu i plaćaju se unaprijed.
 
 Paket 10 idealan je za redoviti tjedni termin.
 
+## Plaćanje
+
+Gotovinom nakon termina ili bankovnim prijenosom prije termina. Podatke za uplatu možete pronaći [ovdje](placanje.md).
+
 ## Ostale usluge
 
 <div class="grid cards" markdown>
@@ -63,16 +67,18 @@ Paket 10 idealan je za redoviti tjedni termin.
 
     ---
 
-    | | Po zadatku |
+    Pošaljite nam zadatke, a mi vam na e-mail šaljemo prezentaciju s detaljnim rješenjem korak po korak. [Pogledajte primjer](files/primjer_rjesenja_kosi_hitac.pdf).
+
+    | | Po podzadatku |
     | :-- | :--: |
-    | Osnovna škola | 3 € |
-    | Srednja škola | 5 € |
+    | Osnovna škola | 4 € |
+    | Srednja škola | 7 € |
 
 -   :material-translate:{ .lg .middle } **Poduke na talijanskom**
 
     ---
 
-    Za učenike talijanskih škola, isključivo online.
+    Za učenike talijanskih škola, **isključivo online**.
 
     | | Sat |
     | :-- | :--: |
@@ -80,7 +86,3 @@ Paket 10 idealan je za redoviti tjedni termin.
     | Srednja škola | 30 € |
 
 </div>
-
-!!! info "Plaćanje"
-
-    Gotovinom nakon termina ili bankovnim prijenosom prije termina. [Podaci za uplatu](placanje.md)

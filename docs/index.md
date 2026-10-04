@@ -35,7 +35,7 @@ hide:
 
     ---
 
-    Poduke za učenike talijanskih škola, isključivo online.
+    Poduke za učenike talijanskih škola, **isključivo online**.
 
 -   :material-laptop:{ .lg .middle } **Uživo ili online**
 
