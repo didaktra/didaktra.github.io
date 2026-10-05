@@ -12,7 +12,7 @@ Rado ćemo odgovoriti na vaša pitanja i dogovoriti termin.
 
 <div class="grid cards" markdown>
 
--   :material-phone:{ .lg .middle } **Telefon i poruke**
+-   :material-phone:{ .lg .middle } **Pozivi i poruke**
 
     ---
 

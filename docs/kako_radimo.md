@@ -3,6 +3,7 @@ title: Kako radimo
 description: Individualni pristup, PDF sažetak nakon svakog sata i fizika kroz jednostavne pokuse.
 hide:
   - navigation
+  - toc
 ---
 
 # Kako radimo?
