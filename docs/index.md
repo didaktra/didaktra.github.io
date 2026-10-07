@@ -76,6 +76,8 @@ Ne želimo samo pripremiti učenika za sljedeći test. Želimo da razumije, pove
 </div>
 -->
 
+![DIDAKTRA](images/didaktra_full_logo.svg){ .dk-logo }
+
 
 <div class="dk-contact" markdown>
 

@@ -15,9 +15,8 @@ theme:
     accent: custom
   font:
     text: Nunito
-  icon:
-    logo: material/school-outline
-  favicon: images/school-outline.svg
+  logo: images/didaktra-znak-bijeli.svg
+  favicon: images/didaktra_symbol.svg
   features:
     - navigation.tabs
     - navigation.top
