@@ -362,12 +362,28 @@ textarea.form-control {
   #cjenik-tablica { font-size: 0.7rem; }
   #cjenik-tablica th,
   #cjenik-tablica td { padding: 0.6em 0.3em; }
+}
+
+/* Mobitel i manji tablet: značka u dva reda, točno iznad stupca „Paket 10 sati” */
+@media screen and (max-width: 40em) {
+  #cjenik-tablica { margin-top: 2.6em; }
   #cjenik-tablica .dk-tag {
+    top: auto;
+    bottom: calc(100% - 0.55em);
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    width: max-content;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    hyphens: none;
+    text-align: center;
     font-size: 0.55rem;
-    padding: 0.15em 0.45em;
-    left: auto;
-    right: 0.3em;
-    transform: translateY(-50%);
+    line-height: 1.15;
+    padding: 0.25em 0.45em;
+    border-radius: 0.8em;
   }
 }
 
@@ -384,3 +400,18 @@ textarea.form-control {
     font-size: 0.8em;
   }
 }
+
+/* Puni logo u sadržaju */
+.md-typeset img.dk-logo {
+  display: block;
+  width: min(18rem, 70%);
+  margin: 1.2rem auto 1.6rem;
+}
+
+/* Logo u zaglavlju */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 0.9rem;
+  width: auto;
+}
+.md-header__button.md-logo { margin-right: 0; }
