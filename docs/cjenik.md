@@ -1,6 +1,6 @@
 ---
 title: Cjenik
-description: Cijene instrukcija iz matematike i fizike za osnovnu i srednju školu. Pojedinačni sati, paketi od 8 i 12 sati, rad u paru i poduke na talijanskom jeziku.
+description: Cijene instrukcija iz matematike i fizike za osnovnu i srednju školu. Pojedinačni sati, paketi od 6 i 10 sati, rad u paru, riješeni zadaci i poduke na talijanskom jeziku.
 hide:
   - navigation
   - toc
@@ -23,15 +23,15 @@ Paketi se odnose na individualnu nastavu i plaćaju se unaprijed.
   <tbody>
     <tr>
       <td><strong>Osnovna škola</strong><small>5. do 8. razred</small></td>
-      <td>20 €</td>
-      <td>110 €<small>ušteda 10&nbsp;€</small></td>
-      <td>170 €<small>ušteda 30&nbsp;€</small></td>
+      <td>20&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>20&nbsp;€</span></small></td>
+      <td>110&nbsp;€<small>ušteda 10&nbsp;€</small><small class="dk-anchor">cijena na dan <span>14. 10. 2026.:</span> <span>110&nbsp;€</span></small></td>
+      <td>170&nbsp;€<small>ušteda 30&nbsp;€</small><small class="dk-anchor">cijena na dan <span>14. 10. 2026.:</span> <span>170&nbsp;€</span></small></td>
     </tr>
     <tr>
       <td><strong>Srednja škola</strong><small>1. do 4. razred</small></td>
-      <td>25 €</td>
-      <td>135 €<small>ušteda 15&nbsp;€</small></td>
-      <td>210 €<small>ušteda 40&nbsp;€</small></td>
+      <td>25&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>25&nbsp;€</span></small></td>
+      <td>135&nbsp;€<small>ušteda 15&nbsp;€</small><small class="dk-anchor">cijena na dan <span>14. 10. 2026.:</span> <span>135&nbsp;€</span></small></td>
+      <td>210&nbsp;€<small>ušteda 40&nbsp;€</small><small class="dk-anchor">cijena na dan <span>14. 10. 2026.:</span> <span>210&nbsp;€</span></small></td>
     </tr>
     <tr>
       <td><strong>Vrijedi</strong></td>
@@ -60,8 +60,8 @@ Gotovinom nakon termina ili bankovnim prijenosom prije termina. Podatke za uplat
 
     | | Po učeniku |
     | :-- | :--: |
-    | Osnovna škola | 15 € |
-    | Srednja škola | 18 € |
+    | Osnovna škola | 15&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>15&nbsp;€</span></small> |
+    | Srednja škola | 18&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>18&nbsp;€</span></small> |
 
 -   :material-pencil:{ .lg .middle } **Rješavanje zadataka**
 
@@ -71,8 +71,8 @@ Gotovinom nakon termina ili bankovnim prijenosom prije termina. Podatke za uplat
 
     | | Po podzadatku |
     | :-- | :--: |
-    | Osnovna škola | 4 € |
-    | Srednja škola | 7 € |
+    | Osnovna škola | 4&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>4&nbsp;€</span></small> |
+    | Srednja škola | 7&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>7&nbsp;€</span></small> |
 
 -   :material-translate:{ .lg .middle } **Poduke na talijanskom**
 
@@ -82,7 +82,7 @@ Gotovinom nakon termina ili bankovnim prijenosom prije termina. Podatke za uplat
 
     | | Sat |
     | :-- | :--: |
-    | Osnovna škola | 25 € |
-    | Srednja škola | 30 € |
+    | Osnovna škola | 25&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>25&nbsp;€</span></small> |
+    | Srednja škola | 30&nbsp;€<small class="dk-anchor">cijena na dan <span>10. 09. 2026.:</span> <span>30&nbsp;€</span></small> |
 
 </div>
